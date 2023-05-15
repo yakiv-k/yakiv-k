@@ -13,8 +13,8 @@
 ⚡ Fun fact: When i'm not coding, i'm working on music or i'm at the gym.
 
 <div align="center">
-    <img src="[MooseSnoot.JPG](https://github.com/yakiv-k/yakiv-k/assets/97262607/909de8cd-68fd-44cf-93e2-c5a27b4e2afe)" alt="traveling" height="500px" />
-    <img src="[Fam.JPG](https://github.com/yakiv-k/yakiv-k/assets/97262607/909de8cd-68fd-44cf-93e2-c5a27b4e2afe)" alt="studio shot" height="500px" />
+  ![69270687_1073638762842198_7161824375426565996_n](https://github.com/yakiv-k/yakiv-k/assets/97262607/909de8cd-68fd-44cf-93e2-c5a27b4e2afe)
+    ![69270687_1073638762842198_7161824375426565996_n](https://github.com/yakiv-k/yakiv-k/assets/97262607/909de8cd-68fd-44cf-93e2-c5a27b4e2afe)
 </div>
 
 <h2 align="center">Projects</h2>
