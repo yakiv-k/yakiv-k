@@ -13,8 +13,7 @@
 ⚡ Fun fact: When i'm not coding, i'm working on music or i'm at the gym.
 
 <div align="center">
-  ![69270687_1073638762842198_7161824375426565996_n](https://github.com/yakiv-k/yakiv-k/assets/97262607/909de8cd-68fd-44cf-93e2-c5a27b4e2afe)
-    ![69270687_1073638762842198_7161824375426565996_n](https://github.com/yakiv-k/yakiv-k/assets/97262607/909de8cd-68fd-44cf-93e2-c5a27b4e2afe)
+  <img src="https://user-images.githubusercontent.com/97262607/238376582-909de8cd-68fd-44cf-93e2-c5a27b4e2afe.jpg" alt="studio" width="500px"/>
 </div>
 
 <h2 align="center">Projects</h2>
