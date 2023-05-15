@@ -19,7 +19,7 @@
       <h3 align="center">Kollab</h3>
         <br>
 
-https://user-images.githubusercontent.com/69886705/233875961-7a41e039-73d4-401e-85ca-be153acfab0d.mp4
+[https://user-images.githubusercontent.com/69886705/233875961-7a41e039-73d4-401e-85ca-be153acfab0d.mp4](https://user-images.githubusercontent.com/97262607/238372026-ff9b60f8-3b30-48ff-b852-b59fcc984156.mp4)
 
 
   <p align="center">
@@ -35,7 +35,7 @@ https://user-images.githubusercontent.com/69886705/233875961-7a41e039-73d4-401e-
       <h3 align="center">inStock</h3>
         <br>
 
-https://user-images.githubusercontent.com/69886705/233861777-47462dfc-95a2-434c-9c90-0d9685de099e.mov
+[https://user-images.githubusercontent.com/69886705/233861777-47462dfc-95a2-434c-9c90-0d9685de099e.mov](https://user-images.githubusercontent.com/97262607/238372042-8cc654b3-a332-419a-bf6a-8e0ed12b0a73.mp4)
 
 
   <p align="center">
