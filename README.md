@@ -1,10 +1,4 @@
 <div align="center">
-
-</br>
-</br>
-
-
-</br>
 <h1>Hi 👋, I'm Yakiv </h1>
 <h3>A full stack developer based out of Toronto, ON</h3>
 
@@ -15,7 +9,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/97262607/238376582-909de8cd-68fd-44cf-93e2-c5a27b4e2afe.jpg" alt="studio" width="500px"/>
 </div>
-
+</br>
 <h2 align="center">Projects</h2>
 <table bordercolor="#6f6d85">
   <tr>
@@ -55,8 +49,7 @@
   
 </table>
 </br>
-
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 <p>     
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />
