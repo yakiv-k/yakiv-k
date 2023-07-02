@@ -68,7 +68,6 @@
 </r>
 
 ## My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yakiv-k&show_icons=true&theme=nord)]([https://github.com/yakiv-k])
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakiv-k&layout=compact&theme=nord)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/yakiv-k))
 
