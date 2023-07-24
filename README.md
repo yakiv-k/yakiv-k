@@ -2,8 +2,8 @@
 <h1>Hi 👋, I'm Yakiv </h1>
 <h3>A full stack developer based out of Toronto, ON</h3>
 
-🔭 I’m currently learning Next.js.   
-🌱 I’m interested in front-end development.               
+🔭 I’m currently working on something cool at multplAI.   
+🌱 I’m interested in back-end development.               
 ⚡ Fun fact: When i'm not coding, i'm working on music or i'm at the gym.
 
 <div align="center">
